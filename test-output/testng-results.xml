@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-13T09:27:47Z" name="Suite" finished-at="2020-03-13T09:27:48Z" duration-ms="343">
+    <groups>
+    </groups>
+    <test started-at="2020-03-13T09:27:47Z" name="Test" finished-at="2020-03-13T09:27:48Z" duration-ms="343">
+      <class name="com.fb.testcases.LoginPageTestcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.fb.testcases.LoginPageTestcases@23c30a20]" started-at="2020-03-13T09:27:22Z" name="setup" finished-at="2020-03-13T09:27:47Z" duration-ms="25444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyTitleTest()[pri:0, instance:com.fb.testcases.LoginPageTestcases@23c30a20]" started-at="2020-03-13T09:27:47Z" name="VerifyTitleTest" finished-at="2020-03-13T09:27:47Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitleTest -->
+        <test-method signature="verifyLogintest()[pri:0, instance:com.fb.testcases.LoginPageTestcases@23c30a20]" started-at="2020-03-13T09:27:47Z" name="verifyLogintest" finished-at="2020-03-13T09:27:48Z" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogintest -->
+      </class> <!-- com.fb.testcases.LoginPageTestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

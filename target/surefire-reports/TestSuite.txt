@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 72.803 s <<< FAILURE! - in TestSuite
+setup(com.fb.testcases.LoginPageTestcases)  Time elapsed: 72.582 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: com/fb/pages/LoginPage
+	at com.fb.testcases.LoginPageTestcases.setup(LoginPageTestcases.java:19)
+Caused by: java.lang.ClassNotFoundException: com.fb.pages.LoginPage
+	at com.fb.testcases.LoginPageTestcases.setup(LoginPageTestcases.java:19)
+
